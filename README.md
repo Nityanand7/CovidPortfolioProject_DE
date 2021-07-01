@@ -4,7 +4,7 @@ Hello,
 
 This is a Portfolio Project for Covid Analysis.
 
-I have taken the covid data set and have done some data exploration.
+I have taken the covid data set and have done some Data Analysis.
 
 The Data is as of 18th June, 2021.
 
