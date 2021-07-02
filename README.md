@@ -1,4 +1,4 @@
-# CovidPortfolioProject_DE
+# CovidPortfolioProject
 
 Hello,
 
